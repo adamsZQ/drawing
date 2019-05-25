@@ -1,0 +1,26 @@
+Epoch[0/1000]loss: 3.362090accuracy_score: 0.712045precision_score: 0.712045recall_score: 0.712045f1_score: 0.712045
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.28795501627700504_enforcement.pkl
+Epoch[1/1000]loss: 1.997725accuracy_score: 0.793726precision_score: 0.793726recall_score: 0.793726f1_score: 0.793726
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.20627404557561413_enforcement.pkl
+Epoch[2/1000]loss: 1.143625accuracy_score: 0.904706precision_score: 0.904706recall_score: 0.904706f1_score: 0.904706
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.09529446581828949_enforcement.pkl
+Epoch[3/1000]loss: 0.620386accuracy_score: 0.964782precision_score: 0.964782recall_score: 0.964782f1_score: 0.964782
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.035217519976324385_enforcement.pkl
+Epoch[4/1000]loss: 0.343950accuracy_score: 0.977804precision_score: 0.977804recall_score: 0.977804f1_score: 0.977804
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.022195915951464973_enforcement.pkl
+Epoch[5/1000]loss: 0.220995accuracy_score: 0.981059precision_score: 0.981059recall_score: 0.981059f1_score: 0.981059
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.018940514945250064_enforcement.pkl
+Epoch[6/1000]loss: 0.158043accuracy_score: 0.994377precision_score: 0.994377recall_score: 0.994377f1_score: 0.994377
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.005622965374371125_enforcement.pkl
+Epoch[7/1000]loss: 0.119919accuracy_score: 0.995561precision_score: 0.995561recall_score: 0.995561f1_score: 0.995561
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.004439183190293017_enforcement.pkl
+Epoch[8/1000]loss: 0.093977accuracy_score: 0.998520precision_score: 0.998520recall_score: 0.998520f1_score: 0.998520
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.0014797277300976353_enforcement.pkl
+Epoch[9/1000]loss: 0.075014accuracy_score: 0.999112precision_score: 0.999112recall_score: 0.999112f1_score: 0.999112
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.0008878366380585812_enforcement.pkl
+Epoch[10/1000]loss: 0.060492accuracy_score: 0.999112precision_score: 0.999112recall_score: 0.999112f1_score: 0.999112
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.0008878366380585812_enforcement.pkl
+Epoch[11/1000]loss: 0.049063accuracy_score: 0.999112precision_score: 0.999112recall_score: 0.999112f1_score: 0.999112
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.0008878366380585812_enforcement.pkl
+Epoch[12/1000]loss: 0.040026accuracy_score: 0.999112precision_score: 0.999112recall_score: 0.999112f1_score: 0.999112
+enforcement save: /home/next/cr_repo/bf/test_final/embedding0.0008878366380585812_enforcement.pkl
